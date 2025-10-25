@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/coding_kesha.iml" filepath="$PROJECT_DIR$/coding_kesha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/coding_kesha_android.iml" filepath="$PROJECT_DIR$/android/coding_kesha_android.iml" />
+    </modules>
+  </component>
+</project>
